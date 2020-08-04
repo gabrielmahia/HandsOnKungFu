@@ -1,2 +1,2 @@
 # HandsOnAIKungFu
-Learning the most efficient tool to solve the big problems that exist in the cybersecurity domain.
+Learning and practicing the most efficient tools to solve the big problems that exist in the cybersecurity domain.
